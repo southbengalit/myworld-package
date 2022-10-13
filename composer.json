@@ -1,0 +1,16 @@
+{
+    "name": "myworld/ikigai",
+    "description": "This is demo package",
+    "autoload": {
+        "psr-4": {
+            "Myworld\\Ikigai\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "South Bengal IT",
+            "email": "45383424+southbengalit@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
